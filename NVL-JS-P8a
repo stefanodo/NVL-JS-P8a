@@ -1,1 +1,14 @@
+var nombre = "Amigo"
+alert(nombre.toLowerCase());
 
+//cambia la variable nombre todo a minúscula
+
+var nombre = "Amigo"
+alert(nombre.replace(“A”, “a”));
+
+//reemplaza la posición 0 de la variable de A a a
+
+var nombre = "Amigo"
+alert(nombre.replace("Ami", "ami"));
+
+//reemplaza las 3 primeras posiciones de Ami a ami
